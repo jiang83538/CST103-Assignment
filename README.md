@@ -1,4 +1,4 @@
-# CST103-Assignment
+# CST103-Assignment-ASCII-Display-and-GPA-Calculator
 
 __Attention__: All the answers should implement your own algorithms. In your answer to all of the
 following exercises, appropriate comments should be provided for obscure or difficult code.
