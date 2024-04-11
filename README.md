@@ -1,4 +1,4 @@
-![image](https://github.com/jiang83538/CST103-Assignment/assets/144998425/769e1c22-71c7-426a-a624-e8084524110a)# CST103-Assignment
+# CST103-Assignment
 
 __Attention__: All the answers should implement your own algorithms. In your answer to all of the
 following exercises, appropriate comments should be provided for obscure or difficult code.
@@ -26,7 +26,12 @@ on the above formula and table, output the final GPA and related info for the gr
 final output format as following:
 
 __Couse code  Final mark  Grade Grade  Points  Description__
+
 __Course #1__
+
 __...__
+
 __Course #5__
-__The GPA of 202309 semester: __
+
+__The GPA of 202309 semester:__
+
